@@ -1,0 +1,4 @@
+(:name org-site
+:type git
+:url "https://github.com/sunzhennian/org-blog-github.git"
+:depends (dash ht s loop with-namespace mustache))
